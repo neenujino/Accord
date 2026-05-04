@@ -3,8 +3,6 @@ body {
   font-family: Arial, sans-serif;
   background: #f5f7fb;
 }
-
-/* Navbar */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -30,7 +28,6 @@ body {
   cursor: pointer;
 }
 
-/* Section */
 .products {
   display: flex;
  
@@ -38,7 +35,6 @@ body {
   gap: 60px;
 }
 
-/* Circle */
 .left-circle {
   width: 200px;
   height: 200px;
@@ -57,8 +53,6 @@ body {
   padding-right: 100px;
 
 }
-
-/* Cards */
 .cards {
   display: grid;
   grid-template-columns: repeat(2, 500px);
@@ -136,15 +130,10 @@ body {
   text-align: left;
   padding:100px;
   color: #0d2b5c;
-  
 }
-
-
 .sec1 p{
   color: #555;
   font-size: 15px;
-
-
 }
 div img{
   height:400px;
